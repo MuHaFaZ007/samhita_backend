@@ -121,8 +121,8 @@ var PORT = process.env.PORT || 4000;
 app.post("/orders", async (req, res) => {
 	try {
 		const instance = new razor({
-			key_id: "rzp_test_h3jaqLG39VxWwP",
-			key_secret: "dl453MHchKT72iZeGyMMPZGZ",
+			key_id: "rzp_live_BwhtU9HKjyqnRQ",
+			key_secret: "nAkPKeE66H3bQ5vXokiTuCst",
 		});
         if (req.body.amount == 'dl*')
             amount = 300
@@ -156,7 +156,7 @@ app.post("/verify", async (req, res) => {
 			req.body.resp;
 		const sign = razorpay_order_id + "|" + razorpay_payment_id;
 		const expectedSign = crypto
-			.createHmac("sha256","dl453MHchKT72iZeGyMMPZGZ")
+			.createHmac("sha256","nAkPKeE66H3bQ5vXokiTuCst")
 			.update(sign.toString())
 			.digest("hex");
             console.log(req.body.id+"\n"+req.body.w_id);

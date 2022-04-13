@@ -455,7 +455,7 @@ class myobject {
             //   var str = "Hello! "+p_name+ " Thank You for your registration!";
               var mailOptions = {
                 from: '"SAMHITA 22"<samhita2k22@gmail.com>',
-                to: mail,
+                to: email,
                 subject: "Samhita 2022 - User Registration",
                 html:  'Greetings from the Team Samhita! Thank you for Registering Machine Learning and Deep Learning Workshop.<br> Date: April 23 <br> Time: 9:30 AM - 4 PM <br> For Queries please contact Workshop coordinator Bharath (7338938606)  <br><br> <img src="https://drive.google.com/thumbnail?id=1ndzBbN1rm32X46iCWAm71j7W08vwgvNu&sz=w200-h200"> <br> Thanks and regards,<br> Team Samhita <br>',
                 /*attachements: [{
@@ -532,7 +532,7 @@ class myobject {
             //   var str = "Hello! "+p_name+ " Thank You for your registration!";
               var mailOptions = {
                 from: '"SAMHITA 22"<samhita2k22@gmail.com>',
-                to: mail,
+                to: email,
                 subject: "Samhita 2022 - User Registration",
                 html:  'Greetings from the Team Samhita! Thank you for Registering Blockchain Workshop.<br> Date: April 24 <br> Time: 9:30 AM - 4:30 PM <br> For Queries please contact Workshop coordinator Madhusudhan (6379624413)  <br><br> <img src="https://drive.google.com/thumbnail?id=1ndzBbN1rm32X46iCWAm71j7W08vwgvNu&sz=w200-h200"> <br> Thanks and regards,<br> Team Samhita <br>',
                 /*attachements: [{
@@ -604,7 +604,7 @@ class myobject {
             //   var str = "Hello! "+p_name+ " Thank You for your registration!";
               var mailOptions = {
                 from: '"SAMHITA 22"<samhita2k22@gmail.com>',
-                to: mail,
+                to: email,
                 subject: "Samhita 2022 - User Registration",
                 html:  'Greetings from the Team Samhita! Thank you for Registering UI/UX Bootcamp using React Native Workshop.<br> Date: April 23 <br> Time: 9:30 AM - 4 PM <br> For Queries please contact Workshop coordinator Madhusudhan (6379624413)  <br><br> <img src="https://drive.google.com/thumbnail?id=1ndzBbN1rm32X46iCWAm71j7W08vwgvNu&sz=w200-h200"> <br> Thanks and regards,<br> Team Samhita <br>',
                 /*attachements: [{
@@ -677,7 +677,7 @@ class myobject {
             //   var str = "Hello! "+p_name+ " Thank You for your registration!";
               var mailOptions = {
                 from: '"SAMHITA 22"<samhita2k22@gmail.com>',
-                to: mail,
+                to: email,
                 subject: "Samhita 2022 - User Registration",
                 html:  'Greetings from the Team Samhita! Thank you for Registering Ethical Hacking and Cybersecurity Workshop.<br> Date: April 24 <br> Time: 9:30 AM - 4 PM <br> For Queries please contact Workshop coordinator Hariharan S (9500020859)  <br><br> <img src="https://drive.google.com/thumbnail?id=1ndzBbN1rm32X46iCWAm71j7W08vwgvNu&sz=w200-h200"> <br> Thanks and regards,<br> Team Samhita <br>',
 
@@ -752,7 +752,7 @@ class myobject {
             //   var str = "Hello! "+p_name+ " Thank You for your registration!";
               var mailOptions = {
                 from: '"SAMHITA 22"<samhita2k22@gmail.com>',
-                to: mail,
+                to: email,
                 subject: "Samhita 2022 - User Registration",
                 html:  'Greetings from the Team Samhita! Thank you for Registering Cloud Computing with AWS.<br> Date: April 24 <br> Time: 9:30 AM - 4 PM <br> For Queries please contact Workshop coordinator Bharath (7338938606)  <br><br> <img src="https://drive.google.com/thumbnail?id=1ndzBbN1rm32X46iCWAm71j7W08vwgvNu&sz=w200-h200"> <br> Thanks and regards,<br> Team Samhita <br>',
 
